@@ -1,7 +1,9 @@
 # ATA DE REUNIÃO - SPRINT 01
 
 **Data:** 03/04/2026
+
 **Horário:** 22:00 
+
 **Plataforma:** Google Meet
 
 ---
