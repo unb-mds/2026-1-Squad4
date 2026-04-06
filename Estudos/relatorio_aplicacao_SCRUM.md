@@ -80,54 +80,23 @@ O Product Backlog consiste na lista priorizada de funcionalidades e tarefas do p
 
 ---
 
-## 6. Planejamento das Sprints
+## 6. Eventos do Scrum
 
-Considerando uma carga total de 350 horas, o projeto pode ser dividido em 6 Sprints de aproximadamente 2 a 3 semanas cada.
-
-### Sprint 1 – Fundamentação
-- Definição da arquitetura do sistema
-- Configuração do ambiente
-- Coleta inicial de dados
-
-### Sprint 2 – Tratamento de Dados
-- Limpeza e organização dos dados
-- Estruturação do banco de dados
-
-### Sprint 3 – Processamento de Texto
-- Implementação de técnicas básicas de NLP
-- Classificação de discursos
-
-### Sprint 4 – Análise de Coerência
-- Desenvolvimento do algoritmo de comparação
-- Geração de métricas de coerência
-
-### Sprint 5 – Backend e API
-- Criação de endpoints
-- Integração entre módulos
-
-### Sprint 6 – Frontend e Finalização
-- Desenvolvimento do dashboard
-- Testes e ajustes finais
-
----
-
-## 7. Eventos do Scrum
-
-### 7.1 Sprint Planning
+### 6.1 Sprint Planning
 Reunião para definição das tarefas da Sprint, com base na priorização do backlog.
 
-### 7.2 Daily Scrum
+### 6.2 Daily Scrum
 Reuniões diárias curtas para acompanhamento do progresso, identificação de impedimentos e alinhamento da equipe.
 
-### 7.3 Sprint Review
+### 6.3 Sprint Review
 Apresentação das entregas realizadas ao final da Sprint, com coleta de feedback.
 
-### 7.4 Sprint Retrospective
+### 6.4 Sprint Retrospective
 Avaliação do processo de trabalho, identificando pontos de melhoria para as próximas Sprints.
 
 ---
 
-## 8. Ferramentas de Apoio
+## 7. Ferramentas de Apoio
 
 Para a execução do Scrum, recomenda-se o uso das seguintes ferramentas:
 
@@ -138,7 +107,7 @@ Para a execução do Scrum, recomenda-se o uso das seguintes ferramentas:
 
 ---
 
-## 9. Benefícios da Aplicação do Scrum
+## 8. Benefícios da Aplicação do Scrum
 
 A aplicação do Scrum neste projeto proporciona:
 
@@ -152,7 +121,7 @@ Além disso, permite validar rapidamente partes críticas do sistema, como o mod
 
 ---
 
-## 10. Desafios e Limitações
+## 9. Desafios e Limitações
 
 Alguns desafios esperados incluem:
 
@@ -165,7 +134,7 @@ Esses fatores exigem constante adaptação e validação ao longo do projeto.
 
 ---
 
-## 11. Conclusão
+## 10. Conclusão
 
 A aplicação do método Scrum em uma equipe de seis pessoas é adequada para o desenvolvimento do sistema proposto, pois permite organização eficiente, divisão clara de responsabilidades e evolução progressiva do produto. Dada a complexidade do projeto, a abordagem iterativa facilita a validação contínua das soluções desenvolvidas, especialmente no que se refere à análise de dados e à implementação de modelos de linguagem.
 
