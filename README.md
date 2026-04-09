@@ -49,5 +49,3 @@ E responde:
 - Chart.js / Recharts
 
 ---
-
-## 🏗️ Arquitetura
