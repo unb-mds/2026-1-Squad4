@@ -20,9 +20,9 @@
 ## Objetivos da Reunião
 
 - Definição do nome do projeto;
-- Definição dos requisitos do projetos;
+- Definição dos requisitos do projeto;
 - Discutir o que foi realizado durante a Sprint 02;
-- Alinhar a responsabilidade de cada membro para o Sprint 03;
+- Alinhar a responsabilidade de cada membro para a Sprint 03;
 
 ---
 
@@ -37,4 +37,4 @@
 
 ## Próximos Passos - **SPRINT 03**
 
-- Os membros pesquisarão sobre a área e as ferramentas que forão responsabilizados e, ao final da Sprint, apresentarão seus estudos.
+- Os membros pesquisarão sobre a área e as ferramentas que foram responsabilizados e, ao final da Sprint, apresentarão seus estudos.
